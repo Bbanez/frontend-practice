@@ -13,5 +13,8 @@
     "vite": "^6.0.5",
     "@types/bun": "latest"
   },
-  "module": "index.ts"
+  "module": "index.ts",
+  "dependencies": {
+    "prettier": "^3.5.3"
+  }
 }

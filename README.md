@@ -36,3 +36,9 @@ Draw a circle which will follow users mouse on the screen. Circle shouldn't inst
 Create a text input and when you type inside of it, typed text should also appear bellow the input inside the `p` tag.
 
 ![](./assets/task-4.gif)
+
+## Task 5
+
+Create a text input and submit button. When submit button is clicked, toast notification should appear on the left bottom side of the screen with animation (see GIF bellow) and content of the text input. If the toast is clicked, it should disappear, and if it is not clicked, it should disappear after 5 seconds.
+
+![](./assets/task-5.gif)
